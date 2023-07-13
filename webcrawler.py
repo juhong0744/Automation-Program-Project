@@ -12,3 +12,5 @@ soup.find('input')
 input = soup.select('input')[0]
 print(input)
 #print(input.get_text())
+
+#끝
